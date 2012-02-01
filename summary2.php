@@ -1,0 +1,3 @@
+<?
+  echo 'Summary Daily Page';
+?>
