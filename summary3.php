@@ -1,0 +1,3 @@
+<?
+  echo 'Monthly Summary Page';
+?>
